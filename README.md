@@ -16,6 +16,9 @@
 
 
 
+
+
+
 # data-ptr-comm
 communicate between usermode and kernelmode through a swapped qword ptr argument
 
